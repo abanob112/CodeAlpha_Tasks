@@ -18,7 +18,7 @@ Built a model for emotion recognition from speech audio. Utilized deep learning 
 ### Code
 The code for this task is implemented in Python using TensorFlow and Keras. It includes loading audio data, extracting features using the librosa library, and training a neural network for emotion recognition.
 
-[Link to Task 2 Code](task2_emotion_recognition.py)
+(task2_emotion_recognition.py)
 
 ## Task 3: Handwritten Character Recognition
 
@@ -28,7 +28,7 @@ Created a handwritten character recognition system that can recognize various ha
 ### Code
 The code is implemented in Python and uses a CNN to recognize handwritten characters. It includes loading a dataset, normalizing pixel values, building the model, and training it for character recognition.
 
-[Link to Task 3 Code](task3_handwritten_character_recognition.py)
+(task3_handwritten_character_recognition.py)
 
 ## Task 4: Disease Prediction from Medical Data
 
@@ -38,5 +38,5 @@ Developed a model to predict the likelihood of a disease based on medical data, 
 ### Code
 The code for this task is implemented in Python using scikit-learn. It involves loading medical data, preprocessing, and training a RandomForestClassifier for disease prediction.
 
-[Link to Task 4 Code](task4_disease_prediction.py)
+(task4_disease_prediction.py)
 
